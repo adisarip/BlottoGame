@@ -1,0 +1,59 @@
+Attacker: Evolutionary Strategies
+Defender: LP Strategies
+Total No Of Battles: 60
+=================================
+Strategy: [14, 54, 32] No Of Battles Won: 59
+Strategy: [19, 55, 26] No Of Battles Won: 55
+Strategy: [25, 52, 23] No Of Battles Won: 54
+Strategy: [20, 57, 23] No Of Battles Won: 54
+Strategy: [15, 44, 41] No Of Battles Won: 53
+Strategy: [27, 44, 29] No Of Battles Won: 50
+Strategy: [32, 44, 24] No Of Battles Won: 48
+Strategy: [71, 11, 18] No Of Battles Won: 48
+Strategy: [36, 47, 17] No Of Battles Won: 42
+Strategy: [32, 54, 14] No Of Battles Won: 40
+Strategy: [37, 39, 24] No Of Battles Won: 37
+Strategy: [60, 12, 28] No Of Battles Won: 36
+Strategy: [41, 41, 18] No Of Battles Won: 34
+Strategy: [60, 15, 25] No Of Battles Won: 34
+Strategy: [58, 2, 40] No Of Battles Won: 34
+Strategy: [32, 36, 32] No Of Battles Won: 33
+Strategy: [36, 38, 26] No Of Battles Won: 33
+Strategy: [43, 39, 18] No Of Battles Won: 32
+Total War Wins: 18
+
+Attacker: LP Strategies
+Defender: Evolutionary Strategies
+Total No Of Battles: 60
+=================================
+Strategy: [52, 48, 0] No Of Battles Won: 44
+Strategy: [51, 49, 0] No Of Battles Won: 44
+Strategy: [50, 45, 5] No Of Battles Won: 44
+Strategy: [49, 48, 3] No Of Battles Won: 44
+Strategy: [49, 47, 4] No Of Battles Won: 43
+Strategy: [53, 45, 2] No Of Battles Won: 43
+Strategy: [46, 42, 12] No Of Battles Won: 43
+Strategy: [47, 44, 9] No Of Battles Won: 42
+Strategy: [59, 40, 1] No Of Battles Won: 42
+Strategy: [48, 41, 11] No Of Battles Won: 42
+Strategy: [51, 39, 10] No Of Battles Won: 41
+Strategy: [45, 41, 14] No Of Battles Won: 41
+Strategy: [56, 43, 1] No Of Battles Won: 41
+Strategy: [50, 37, 13] No Of Battles Won: 41
+Strategy: [50, 38, 12] No Of Battles Won: 41
+Strategy: [61, 38, 1] No Of Battles Won: 41
+Strategy: [57, 41, 2] No Of Battles Won: 41
+Strategy: [53, 42, 5] No Of Battles Won: 41
+Strategy: [44, 36, 20] No Of Battles Won: 40
+Strategy: [55, 43, 2] No Of Battles Won: 40
+Strategy: [53, 43, 4] No Of Battles Won: 40
+Strategy: [51, 36, 13] No Of Battles Won: 40
+Strategy: [54, 43, 3] No Of Battles Won: 40
+Strategy: [57, 37, 6] No Of Battles Won: 39
+Strategy: [57, 38, 5] No Of Battles Won: 39
+Strategy: [55, 39, 6] No Of Battles Won: 38
+Strategy: [57, 35, 8] No Of Battles Won: 37
+Strategy: [65, 35, 0] No Of Battles Won: 36
+Strategy: [58, 35, 7] No Of Battles Won: 36
+Strategy: [63, 35, 2] No Of Battles Won: 36
+Total War Wins: 30
