@@ -1,4 +1,6 @@
-# Authors: Lokesh Balani, Aditya Saripalli, 2018
+# Author: Aditya Saripalli
+# MS by Research (Systems and Security)
+# International Institute of Information Technology.
 #
 # A simulator for a Weighted Colonel Blotto game that is played as follows:
 #
@@ -209,9 +211,9 @@ class AttackerBot:
 
     def attack_add_update(self):
         # Creates the next generation of strategies from the current one
-        # Maintains a list of selections, ranked by their scores. 
-        # Every time this list is updated, the top third of the list is maintained, 
-        # another third is composed of mutants of the top third, 
+        # Maintains a list of selections, ranked by their scores.
+        # Every time this list is updated, the top third of the list is maintained,
+        # another third is composed of mutants of the top third,
         # and the final third is composed of random selections
 
         # Player Strategies ranked by score
